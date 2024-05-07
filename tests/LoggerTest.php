@@ -1,5 +1,7 @@
 <?php
 
+namespace TynChristian\Belajar\PHP\MVC;
+
 use Monolog\Logger;
 use PHPUnit\Framework\TestCase;
 
