@@ -1,0 +1,16 @@
+{
+  "message": "Belajar PHP Logging Lagi",
+  "context": { "username": "Christian" },
+  "level": 200,
+  "level_name": "INFO",
+  "channel": "TynChristian\\Belajar\\PHP\\MVC\\FormatterTest",
+  "datetime": "2024-05-07T04:14:37.899144+02:00",
+  "extra": {
+    "hostname": "Christian",
+    "memory_usage": "6 MB",
+    "git": {
+      "branch": "main",
+      "commit": "842f0cd7c9f9348f3e62760ecf4f8ce5cf048aee"
+    }
+  }
+}
