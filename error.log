@@ -1,0 +1,4 @@
+[2024-05-07T03:48:58.741652+02:00] TynChristian\Belajar\PHP\MVC\LevelTest.ERROR: This is error [] []
+[2024-05-07T03:48:58.743390+02:00] TynChristian\Belajar\PHP\MVC\LevelTest.CRITICAL: This is critical [] []
+[2024-05-07T03:48:58.743710+02:00] TynChristian\Belajar\PHP\MVC\LevelTest.ALERT: This is alert [] []
+[2024-05-07T03:48:58.744012+02:00] TynChristian\Belajar\PHP\MVC\LevelTest.EMERGENCY: This is emergency [] []
